@@ -1,3 +1,4 @@
+[LICENSE.txt](https://github.com/webhintio/hint/files/10208507/LICENSE.txt)
 # Correct viewport (`meta-viewport`)
 
 `meta-viewport` warns against not having a single `viewport` meta
